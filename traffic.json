@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:03:22.965Z",
+ "updated": "2026-11-19T21:48:42.012Z",
  "mode": "daily",
  "rows": [
   {
@@ -262,5 +262,8 @@
    "engaged_sessions": 0,
    "page_views": 1
   }
- ]
+ ],
+ "search_console": {
+  "error": "Error: Search Console 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 422444373442 before or it is disabled. Enable it by visiting https://c"
+ }
 }
