@@ -1,0 +1,266 @@
+{
+ "updated": "2026-11-19T20:03:22.965Z",
+ "mode": "daily",
+ "rows": [
+  {
+   "date": "2026-11-13",
+   "visitors": 12,
+   "suspected_bots": 0,
+   "likely_real_visitors": 12,
+   "job_clickers": 3,
+   "engaged_sessions": 23
+  },
+  {
+   "date": "2026-11-14",
+   "visitors": 6,
+   "suspected_bots": 1,
+   "likely_real_visitors": 5,
+   "job_clickers": 0,
+   "engaged_sessions": 5
+  },
+  {
+   "date": "2026-11-15",
+   "visitors": 3,
+   "suspected_bots": 0,
+   "likely_real_visitors": 3,
+   "job_clickers": 1,
+   "engaged_sessions": 5
+  },
+  {
+   "date": "2026-11-16",
+   "visitors": 9,
+   "suspected_bots": 0,
+   "likely_real_visitors": 9,
+   "job_clickers": 2,
+   "engaged_sessions": 6
+  },
+  {
+   "date": "2026-11-17",
+   "visitors": 11,
+   "suspected_bots": 0,
+   "likely_real_visitors": 11,
+   "job_clickers": 0,
+   "engaged_sessions": 10
+  },
+  {
+   "date": "2026-11-18",
+   "visitors": 10,
+   "suspected_bots": 1,
+   "likely_real_visitors": 9,
+   "job_clickers": 1,
+   "engaged_sessions": 4
+  }
+ ],
+ "top_pages": [
+  {
+   "date": "2026-11-13",
+   "page": "/per-diem.html",
+   "engaged_sessions": 5,
+   "page_views": 6
+  },
+  {
+   "date": "2026-11-13",
+   "page": "/",
+   "engaged_sessions": 4,
+   "page_views": 19
+  },
+  {
+   "date": "2026-11-13",
+   "page": "/browse.html",
+   "engaged_sessions": 2,
+   "page_views": 3
+  },
+  {
+   "date": "2026-11-13",
+   "page": "/california.html",
+   "engaged_sessions": 2,
+   "page_views": 12
+  },
+  {
+   "date": "2026-11-13",
+   "page": "/contact.html",
+   "engaged_sessions": 2,
+   "page_views": 3
+  },
+  {
+   "date": "2026-11-13",
+   "page": "/contracts.html",
+   "engaged_sessions": 2,
+   "page_views": 6
+  },
+  {
+   "date": "2026-11-13",
+   "page": "/submit.html",
+   "engaged_sessions": 2,
+   "page_views": 4
+  },
+  {
+   "date": "2026-11-13",
+   "page": "/thanks-signup.html",
+   "engaged_sessions": 2,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-13",
+   "page": "/about.html",
+   "engaged_sessions": 1,
+   "page_views": 2
+  },
+  {
+   "date": "2026-11-13",
+   "page": "/index.html",
+   "engaged_sessions": 1,
+   "page_views": 5
+  },
+  {
+   "date": "2026-11-14",
+   "page": "/",
+   "engaged_sessions": 2,
+   "page_views": 5
+  },
+  {
+   "date": "2026-11-14",
+   "page": "/browse.html",
+   "engaged_sessions": 1,
+   "page_views": 2
+  },
+  {
+   "date": "2026-11-14",
+   "page": "/california.html",
+   "engaged_sessions": 1,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-14",
+   "page": "/contracts.html",
+   "engaged_sessions": 1,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-14",
+   "page": "/newsletter.html",
+   "engaged_sessions": 0,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-14",
+   "page": "/per-diem.html",
+   "engaged_sessions": 0,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-15",
+   "page": "/",
+   "engaged_sessions": 2,
+   "page_views": 2
+  },
+  {
+   "date": "2026-11-15",
+   "page": "/browse.html",
+   "engaged_sessions": 2,
+   "page_views": 2
+  },
+  {
+   "date": "2026-11-15",
+   "page": "/per-diem.html",
+   "engaged_sessions": 1,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-16",
+   "page": "/per-diem.html",
+   "engaged_sessions": 3,
+   "page_views": 4
+  },
+  {
+   "date": "2026-11-16",
+   "page": "/",
+   "engaged_sessions": 1,
+   "page_views": 3
+  },
+  {
+   "date": "2026-11-16",
+   "page": "/browse.html",
+   "engaged_sessions": 1,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-16",
+   "page": "/contracts.html",
+   "engaged_sessions": 1,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-16",
+   "page": "/california.html",
+   "engaged_sessions": 0,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-17",
+   "page": "/",
+   "engaged_sessions": 4,
+   "page_views": 9
+  },
+  {
+   "date": "2026-11-17",
+   "page": "/browse.html",
+   "engaged_sessions": 2,
+   "page_views": 4
+  },
+  {
+   "date": "2026-11-17",
+   "page": "/california.html",
+   "engaged_sessions": 2,
+   "page_views": 2
+  },
+  {
+   "date": "2026-11-17",
+   "page": "/contact.html",
+   "engaged_sessions": 1,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-17",
+   "page": "/contracts.html",
+   "engaged_sessions": 1,
+   "page_views": 4
+  },
+  {
+   "date": "2026-11-17",
+   "page": "/per-diem.html",
+   "engaged_sessions": 0,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-18",
+   "page": "/per-diem.html",
+   "engaged_sessions": 2,
+   "page_views": 7
+  },
+  {
+   "date": "2026-11-18",
+   "page": "/",
+   "engaged_sessions": 1,
+   "page_views": 3
+  },
+  {
+   "date": "2026-11-18",
+   "page": "/browse.html",
+   "engaged_sessions": 1,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-18",
+   "page": "/contracts.html",
+   "engaged_sessions": 0,
+   "page_views": 1
+  },
+  {
+   "date": "2026-11-18",
+   "page": "/index.html",
+   "engaged_sessions": 0,
+   "page_views": 1
+  }
+ ]
+}
