@@ -1,15 +1,8 @@
 {
  "meta": {
-  "generated_at": "2026-11-27T23:14:40.570Z",
+  "generated_at": "2026-11-27T23:24:40.434Z",
   "site": "quitnursing.com",
-  "errors": [
-   "gsc.daily: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co",
-   "gsc.queries: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co",
-   "gsc.pages: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co",
-   "gsc.query_by_page: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co",
-   "gsc.by_device: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co",
-   "gsc.by_country: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co"
-  ]
+  "errors": []
  },
  "ga4": {
   "daily": [
@@ -318,6 +311,386 @@
   "outbound_clicks_30d": []
  },
  "gsc": {
+  "daily": [
+   {
+    "date": "2026-10-29",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-10-30",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-10-31",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-01",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-02",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-03",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-04",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-05",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+   },
+   {
+    "date": "2026-11-06",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1
+   },
+   {
+    "date": "2026-11-07",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-08",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 52
+   },
+   {
+    "date": "2026-11-09",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-10",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2
+   },
+   {
+    "date": "2026-11-11",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6
+   },
+   {
+    "date": "2026-11-12",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-13",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-14",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-15",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-16",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-17",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 58
+   },
+   {
+    "date": "2026-11-18",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7
+   },
+   {
+    "date": "2026-11-19",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 1
+   },
+   {
+    "date": "2026-11-20",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 32
+   },
+   {
+    "date": "2026-11-21",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
+   },
+   {
+    "date": "2026-11-22",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 53.5
+   },
+   {
+    "date": "2026-11-23",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 28
+   },
+   {
+    "date": "2026-11-24",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 41.7
+   },
+   {
+    "date": "2026-11-25",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 21
+   }
+  ],
+  "queries": [
+   {
+    "query": "can i afford to quit my job calculator",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 93
+   },
+   {
+    "query": "is it worth switching internet providers to save $20 a month?",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+   },
+   {
+    "query": "quit nursing",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8.5
+   },
+   {
+    "query": "quitting nursing",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 54.4
+   }
+  ],
+  "pages": [
+   {
+    "page": "https://quitnursing.com/",
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 45.2
+   },
+   {
+    "page": "https://quitnursing.com/blog/",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 1
+   },
+   {
+    "page": "https://quitnursing.com/blog/posts/five-shifts-in-a-row-how-i-survive-a-nursing-hell-week/",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 6.5
+   },
+   {
+    "page": "https://quitnursing.com/blog/posts/i-switched-internet-providers-and-saved-0-01-a-month-it-was-still-worth-it/",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+   },
+   {
+    "page": "https://quitnursing.com/blog/posts/slashing-my-subscriptions-why-i-canceled-netflix-oura-and-webflow/",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 8
+   },
+   {
+    "page": "https://quitnursing.com/blog/posts/the-path-forward-monthly-spend-examination-plan/",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 6
+   },
+   {
+    "page": "https://quitnursing.com/blog/posts/why-i-canceled-audible-and-switched-to-libby-for-free-audiobooks/",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 9
+   },
+   {
+    "page": "https://quitnursing.com/blog/posts/why-i-quit-amazon-prime-and-got-76-95-back/",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 7
+   },
+   {
+    "page": "https://quitnursing.com/blog/posts/why-i-started-this-blog/",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 5
+   },
+   {
+    "page": "https://quitnursing.com/calculator/",
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 25.5
+   },
+   {
+    "page": "https://quitnursing.com/disclosure/",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 2
+   },
+   {
+    "page": "https://quitnursing.com/recs/",
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 4
+   }
+  ],
+  "query_by_page": [
+   {
+    "page": "https://quitnursing.com/",
+    "query": "quit nursing",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8.5
+   },
+   {
+    "page": "https://quitnursing.com/",
+    "query": "quitting nursing",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": 0,
+    "position": 54.4
+   },
+   {
+    "page": "https://quitnursing.com/blog/posts/i-switched-internet-providers-and-saved-0-01-a-month-it-was-still-worth-it/",
+    "query": "is it worth switching internet providers to save $20 a month?",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9
+   },
+   {
+    "page": "https://quitnursing.com/calculator/",
+    "query": "can i afford to quit my job calculator",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 93
+   }
+  ],
+  "by_device": [
+   {
+    "device": "DESKTOP",
+    "clicks": 0,
+    "impressions": 5,
+    "ctr": 0,
+    "position": 21
+   },
+   {
+    "device": "MOBILE",
+    "clicks": 0,
+    "impressions": 18,
+    "ctr": 0,
+    "position": 27.4
+   }
+  ],
+  "by_country": [
+   {
+    "country": "phl",
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 1.5
+   },
+   {
+    "country": "usa",
+    "clicks": 0,
+    "impressions": 21,
+    "ctr": 0,
+    "position": 28.3
+   }
+  ],
   "note": "Search Console data lags about 2-3 days; recent days may be missing or partial."
  },
  "mailerlite": null
