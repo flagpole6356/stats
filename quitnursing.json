@@ -1,0 +1,324 @@
+{
+ "meta": {
+  "generated_at": "2026-11-27T23:13:04.827Z",
+  "site": "quitnursing.com",
+  "errors": [
+   "gsc.daily: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co",
+   "gsc.queries: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co",
+   "gsc.pages: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co",
+   "gsc.query_by_page: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co",
+   "gsc.by_device: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co",
+   "gsc.by_country: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co"
+  ]
+ },
+ "ga4": {
+  "daily": [
+   {
+    "date": "20261030",
+    "sessions": 8,
+    "activeUsers": 8,
+    "newUsers": 8,
+    "engagedSessions": 2,
+    "screenPageViews": 14
+   },
+   {
+    "date": "20261031",
+    "sessions": 1,
+    "activeUsers": 1,
+    "newUsers": 0,
+    "engagedSessions": 0,
+    "screenPageViews": 1
+   },
+   {
+    "date": "20261101",
+    "sessions": 2,
+    "activeUsers": 2,
+    "newUsers": 1,
+    "engagedSessions": 1,
+    "screenPageViews": 3
+   },
+   {
+    "date": "20261102",
+    "sessions": 2,
+    "activeUsers": 1,
+    "newUsers": 0,
+    "engagedSessions": 1,
+    "screenPageViews": 2
+   },
+   {
+    "date": "20261103",
+    "sessions": 5,
+    "activeUsers": 4,
+    "newUsers": 3,
+    "engagedSessions": 2,
+    "screenPageViews": 57
+   },
+   {
+    "date": "20261104",
+    "sessions": 5,
+    "activeUsers": 4,
+    "newUsers": 3,
+    "engagedSessions": 1,
+    "screenPageViews": 11
+   },
+   {
+    "date": "20261110",
+    "sessions": 7,
+    "activeUsers": 5,
+    "newUsers": 4,
+    "engagedSessions": 2,
+    "screenPageViews": 17
+   },
+   {
+    "date": "20261112",
+    "sessions": 1,
+    "activeUsers": 1,
+    "newUsers": 0,
+    "engagedSessions": 1,
+    "screenPageViews": 4
+   },
+   {
+    "date": "20261115",
+    "sessions": 1,
+    "activeUsers": 0,
+    "newUsers": 0,
+    "engagedSessions": 0,
+    "screenPageViews": 1
+   },
+   {
+    "date": "20261116",
+    "sessions": 5,
+    "activeUsers": 4,
+    "newUsers": 3,
+    "engagedSessions": 1,
+    "screenPageViews": 27
+   },
+   {
+    "date": "20261118",
+    "sessions": 7,
+    "activeUsers": 7,
+    "newUsers": 6,
+    "engagedSessions": 1,
+    "screenPageViews": 8
+   }
+  ],
+  "by_source_7d": [],
+  "by_source_30d": [
+   {
+    "sessionSource": "(direct)",
+    "sessionMedium": "(none)",
+    "sessions": 44,
+    "engagedSessions": 12
+   }
+  ],
+  "landing_pages_30d": [
+   {
+    "landingPage": "/",
+    "sessions": 39,
+    "engagedSessions": 11
+   },
+   {
+    "landingPage": "(not set)",
+    "sessions": 2,
+    "engagedSessions": 0
+   },
+   {
+    "landingPage": "/blog",
+    "sessions": 1,
+    "engagedSessions": 1
+   },
+   {
+    "landingPage": "/blog/posts/i-cut-my-phone-bill-from-55-to-25-a-month-with-mint-mobile",
+    "sessions": 1,
+    "engagedSessions": 0
+   },
+   {
+    "landingPage": "/blog/posts/why-i-canceled-audible-and-switched-to-libby-for-free-audiobooks",
+    "sessions": 1,
+    "engagedSessions": 0
+   }
+  ],
+  "pages_7d": [],
+  "pages_30d": [
+   {
+    "pagePath": "/",
+    "screenPageViews": 76,
+    "activeUsers": 26,
+    "userEngagementDuration": 448
+   },
+   {
+    "pagePath": "/blog/posts/the-path-forward-monthly-spend-examination-plan/",
+    "screenPageViews": 9,
+    "activeUsers": 1,
+    "userEngagementDuration": 315
+   },
+   {
+    "pagePath": "/blog/posts/why-i-canceled-audible-and-switched-to-libby-for-free-audiobooks/",
+    "screenPageViews": 9,
+    "activeUsers": 3,
+    "userEngagementDuration": 109
+   },
+   {
+    "pagePath": "/blog/",
+    "screenPageViews": 6,
+    "activeUsers": 1,
+    "userEngagementDuration": 77
+   },
+   {
+    "pagePath": "/blog/posts/five-shifts-in-a-row-how-i-survive-a-nursing-hell-week/",
+    "screenPageViews": 6,
+    "activeUsers": 2,
+    "userEngagementDuration": 82
+   },
+   {
+    "pagePath": "/blog/posts/i-switched-internet-providers-and-saved-0-01-a-month-it-was-still-worth-it/",
+    "screenPageViews": 6,
+    "activeUsers": 2,
+    "userEngagementDuration": 189
+   },
+   {
+    "pagePath": "/blog/posts/slashing-my-subscriptions-why-i-canceled-netflix-oura-and-webflow/",
+    "screenPageViews": 5,
+    "activeUsers": 1,
+    "userEngagementDuration": 151
+   },
+   {
+    "pagePath": "/calculator/",
+    "screenPageViews": 5,
+    "activeUsers": 1,
+    "userEngagementDuration": 27
+   },
+   {
+    "pagePath": "/start-here/",
+    "screenPageViews": 5,
+    "activeUsers": 1,
+    "userEngagementDuration": 147
+   },
+   {
+    "pagePath": "/blog/posts/i-cut-my-phone-bill-from-55-to-25-a-month-with-mint-mobile/",
+    "screenPageViews": 4,
+    "activeUsers": 2,
+    "userEngagementDuration": 35
+   },
+   {
+    "pagePath": "/blog/posts/why-i-quit-amazon-prime-and-got-76-95-back/",
+    "screenPageViews": 4,
+    "activeUsers": 1,
+    "userEngagementDuration": 166
+   },
+   {
+    "pagePath": "/blog/posts/housing-part-1-why-i-haven’t-written-about-housing-yet-and-the-66-letter-that-started-it-all/",
+    "screenPageViews": 3,
+    "activeUsers": 1,
+    "userEngagementDuration": 506
+   },
+   {
+    "pagePath": "/blog/posts/quit-nursing-with-intention-not-burnout-my-three-part-plan/",
+    "screenPageViews": 2,
+    "activeUsers": 1,
+    "userEngagementDuration": 31
+   },
+   {
+    "pagePath": "/blog/posts/where-are-the-women-in-fire-why-i’m-monetizing-this-blog-from-the-start/",
+    "screenPageViews": 2,
+    "activeUsers": 2,
+    "userEngagementDuration": 29
+   },
+   {
+    "pagePath": "/recs/",
+    "screenPageViews": 2,
+    "activeUsers": 1,
+    "userEngagementDuration": 6
+   },
+   {
+    "pagePath": "/disclosure/",
+    "screenPageViews": 1,
+    "activeUsers": 1,
+    "userEngagementDuration": 0
+   }
+  ],
+  "by_country_30d": [
+   {
+    "country": "United States",
+    "sessions": 35
+   },
+   {
+    "country": "Netherlands",
+    "sessions": 4
+   },
+   {
+    "country": "(not set)",
+    "sessions": 2
+   },
+   {
+    "country": "Canada",
+    "sessions": 1
+   },
+   {
+    "country": "France",
+    "sessions": 1
+   },
+   {
+    "country": "India",
+    "sessions": 1
+   }
+  ],
+  "by_device_30d": [
+   {
+    "deviceCategory": "desktop",
+    "sessions": 28,
+    "engagedSessions": 11
+   },
+   {
+    "deviceCategory": "mobile",
+    "sessions": 16,
+    "engagedSessions": 1
+   }
+  ],
+  "new_returning_30d": [
+   {
+    "newVsReturning": "new",
+    "sessions": 28
+   },
+   {
+    "newVsReturning": "returning",
+    "sessions": 14
+   },
+   {
+    "newVsReturning": "(not set)",
+    "sessions": 2
+   }
+  ],
+  "events_30d": [
+   {
+    "eventName": "page_view",
+    "eventCount": 145
+   },
+   {
+    "eventName": "user_engagement",
+    "eventCount": 98
+   },
+   {
+    "eventName": "scroll",
+    "eventCount": 62
+   },
+   {
+    "eventName": "session_start",
+    "eventCount": 44
+   },
+   {
+    "eventName": "first_visit",
+    "eventCount": 28
+   },
+   {
+    "eventName": "form_start",
+    "eventCount": 1
+   }
+  ],
+  "outbound_clicks_30d": []
+ },
+ "gsc": {
+  "note": "Search Console data lags about 2-3 days; recent days may be missing or partial."
+ },
+ "mailerlite": null
+}
