@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-11-27T23:13:04.827Z",
+  "generated_at": "2026-11-27T23:14:40.570Z",
   "site": "quitnursing.com",
   "errors": [
    "gsc.daily: 403 {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Google Search Console API has not been used in project 951152292010 before or it is disabled. Enable it by visiting https://console.developers.google.co",
