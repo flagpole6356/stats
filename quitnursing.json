@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-11-27T23:24:40.434Z",
+  "generated_at": "2026-11-28T12:50:21.255Z",
   "site": "quitnursing.com",
   "errors": []
  },
@@ -93,21 +93,36 @@
     "newUsers": 6,
     "engagedSessions": 1,
     "screenPageViews": 8
+   },
+   {
+    "date": "20261127",
+    "sessions": 2,
+    "activeUsers": 2,
+    "newUsers": 2,
+    "engagedSessions": 0,
+    "screenPageViews": 2
    }
   ],
-  "by_source_7d": [],
+  "by_source_7d": [
+   {
+    "sessionSource": "(direct)",
+    "sessionMedium": "(none)",
+    "sessions": 2,
+    "engagedSessions": 0
+   }
+  ],
   "by_source_30d": [
    {
     "sessionSource": "(direct)",
     "sessionMedium": "(none)",
-    "sessions": 44,
+    "sessions": 46,
     "engagedSessions": 12
    }
   ],
   "landing_pages_30d": [
    {
     "landingPage": "/",
-    "sessions": 39,
+    "sessions": 41,
     "engagedSessions": 11
    },
    {
@@ -131,12 +146,18 @@
     "engagedSessions": 0
    }
   ],
-  "pages_7d": [],
+  "pages_7d": [
+   {
+    "pagePath": "/",
+    "screenPageViews": 2,
+    "activeUsers": 2
+   }
+  ],
   "pages_30d": [
    {
     "pagePath": "/",
-    "screenPageViews": 76,
-    "activeUsers": 26,
+    "screenPageViews": 78,
+    "activeUsers": 28,
     "userEngagementDuration": 448
    },
    {
@@ -233,7 +254,7 @@
   "by_country_30d": [
    {
     "country": "United States",
-    "sessions": 35
+    "sessions": 37
    },
    {
     "country": "Netherlands",
@@ -264,14 +285,14 @@
    },
    {
     "deviceCategory": "mobile",
-    "sessions": 16,
+    "sessions": 18,
     "engagedSessions": 1
    }
   ],
   "new_returning_30d": [
    {
     "newVsReturning": "new",
-    "sessions": 28
+    "sessions": 30
    },
    {
     "newVsReturning": "returning",
@@ -285,7 +306,7 @@
   "events_30d": [
    {
     "eventName": "page_view",
-    "eventCount": 145
+    "eventCount": 147
    },
    {
     "eventName": "user_engagement",
@@ -297,11 +318,11 @@
    },
    {
     "eventName": "session_start",
-    "eventCount": 44
+    "eventCount": 46
    },
    {
     "eventName": "first_visit",
-    "eventCount": 28
+    "eventCount": 30
    },
    {
     "eventName": "form_start",
@@ -507,6 +528,13 @@
     "impressions": 3,
     "ctr": 0,
     "position": 21
+   },
+   {
+    "date": "2026-11-26",
+    "clicks": 0,
+    "impressions": 0,
+    "ctr": 0,
+    "position": 0
    }
   ],
   "queries": [
